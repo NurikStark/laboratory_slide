@@ -1,0 +1,668 @@
+@media (max-width:1300px){
+	.container{
+		max-width: 1050px
+	}
+	.section-container{
+		max-width: 1050px	
+	}
+	.logo{
+		margin-right: 50px	
+	}
+	.nav_item:nth-child(even){
+		margin-right: 25px;
+		margin-left: 25px
+	}
+	.projects__names{
+		justify-content: space-between;
+	}
+	.projects__names_items:nth-child(even){
+		margin: 0	
+	}
+	.projects__img{
+		width: 540px	
+	}
+	.repair-type__info {
+		width: 290px	
+	}
+	.repair-type__btn{
+		padding: 14px	
+	}
+	.service_content{
+		justify-content: space-between
+	}
+	.service__offer{
+		width: 580px	
+	}
+	.service-form{
+		margin-left: 0
+	}
+	.service-offer__list{
+		margin: 117px 64px 37px 274px !important
+	}
+	.exempels__choose{
+		width: 380px	
+	}
+	.exempels__choose{
+		margin-right: 0
+	}
+	.exempels__images img{
+		width: 260px
+	}
+	.button-form_question{
+		width: 70%
+	}
+	.opinions__offer{
+		width: 33%;
+	}
+	.our-location__content{
+		max-width: 100%	
+	}
+	.footer{
+		width: 100%	
+	}	
+}
+@media (max-width:1050px){
+	.container{
+		max-width: 800px
+	}
+	.section-container{
+		max-width: 800px	
+	}
+	.nav_item:nth-child(even){
+		margin-right: 30px;
+		margin-left: 30px;	
+	}
+	.button{
+		display: none;	
+	}
+	.projects__offer{
+		width: 370px;
+	}
+	.projects__img{
+		width: 400px	
+	}
+	.projects__names{
+		display: block;
+	}
+	.projects__name{
+		display: none	
+	}
+	.projects__name_active{
+		display: block;
+		margin: 0 auto;	
+	}
+	.video{
+		max-width: 90%;	
+	}
+	.service__offer{
+		width: 400px	
+	}
+	.service-offer__item p{
+		font-size: 12px;
+	}
+	.service-offer__list{
+	    margin: 117px 64px 37px 30px !important;
+	}
+	.service-form{
+		margin: 106px 0 38px 30px;	
+	}
+	.service-form__book{
+		height: 540px
+	}
+	.form__title{
+		width: 80%;
+		font-size: 16px;	
+	}
+	.button-form__service{
+		width: 80%	
+	}
+	.exempels__choose{
+		margin-left: 50px	
+	}
+	.exempels__images img{
+		width: 350px
+	}
+	.exempels__img2_2{
+		display: none	
+	}
+	.exempels__img1_2{
+		display: none	
+	}
+	.clients__opinions{
+		width: 100%	
+	}
+	.opinions__offer:nth-child(2){
+		display: none	
+	}
+	.map{
+		width: 90%	
+	}
+}
+@media (max-width:899px){
+	.container{
+		max-width: 90%;
+	}
+	.section-container{
+		max-width: 90%;
+	}
+	.nav_item{
+		display: none
+	}
+	.button{
+		display: none	
+	}
+	.main__title{
+		font-size: 30px;
+	}
+	.main__text{
+		font-size: 18px;
+	}
+	.main__btn{
+		padding: 14px 30px 15px;	
+	}
+	.btn{
+		width: 80%
+	}
+	.btn2{
+		padding: 14px 30px 15px;
+		width: 35%
+	}
+	.main__btn{
+		width: 30%
+	}
+	.repair-types{
+		flex-wrap: wrap;
+	}
+	.repair-type{
+		max-width: 48%;
+	}
+	.repair-type__info{
+		width: 320px
+	}
+	.repair-type:nth-child(even){
+		margin: 0
+	}
+	.repair-type:last-child{
+		margin: 375px auto 0;
+	}
+	.parameters{
+		width: 140px	
+	}
+	.projects__title{
+		font-size: 22px;
+		width: 100%	
+	}
+	.parameters__title{
+		font-size: 14px;
+	}
+	.projects__text{
+		font-size: 12px;
+	}
+	.projects__exampeles{
+		margin: auto 0 auto 10px;
+	}
+	.projects__names_items{
+		text-align: end;
+	}
+	.projects__img{
+		margin-top: 25px	
+	}
+	.service_content{
+		display: block
+	}
+	.service-form{
+		width: 100%;
+		margin: 50px auto 0;
+	}
+	.service-form__book{
+		width: 100%
+	}
+	.service__span{
+		margin: 50px auto;
+	}
+	.repair-type:nth-child(even){
+		margin: 0;	
+	}
+	.service__offer{
+		display: none
+	}
+	.opinions__offer{
+		width: 45%
+	}
+	.opinions__text{
+		width: 90%
+	}
+	.form__book_service{
+		width: 80%
+	}
+	.form__input_service{
+		width: 100%
+	}
+	.form__control{
+		width: 100%
+	}
+	.form__book_control{
+		width: 45%
+	}
+	.form__book-input_control{
+		width: 100%
+	}
+	.button-form{
+		margin: 100px auto 0;
+	}
+	.form-book__checkbox{
+		margin: 15px auto 0;
+	}
+	.form-book__checkbox_control{
+	    margin: -109px auto 0;
+	    text-align: center
+	}
+}
+@media (max-width:650px){
+	.main{
+		padding-top: 130px;
+		padding-bottom: 150px;
+	}
+	.main__btn{
+		width: 70%;
+	}
+	.btn2{
+		width: 70%;
+		margin-left: 0;
+		margin-top: 20px;
+	}
+	.main__title{
+		font-size: 25px;
+		width: 80%;	
+	}
+	.main__text{
+		font-size: 14px;
+		width: 80%;	
+	}
+	.projects__offer{
+		width: 80%;
+		margin: 0 auto;
+	}
+	.projects__title{
+		text-align: center;
+	}
+	.projects__text{
+		font-size: 14px;
+		text-align: center;
+	}
+	.parameters{
+		width: 45%;	
+	}
+	.tabs{
+		display: none;
+	}
+	.projects{
+		padding-bottom: 475px;	
+	}
+	.projects__image{
+		display: flex;
+    	align-items: center;
+	}
+	.projects__img{
+		margin: 25px auto;
+    	width: 80%;
+    	display: block;
+	}
+	.projects__image::after{
+		content: '';
+		display: block;
+		background: url('../images/next-right.svg')no-repeat center center;
+		width: 50px;
+		height: 50px;
+	}
+	.projects__image::before{
+		content: '';
+		display: block;
+		background: url('../images/next-left.svg')no-repeat center center;
+		width: 50px;
+		height: 50px;
+	}
+	.projects-content{
+		display: block;
+		position: relative;
+	}
+	.projects__exampeles{
+
+	}
+	.projects__parameters{
+		position: absolute;
+    	top: 100%;
+    	left: 20px;	
+    	width: 80%;		
+	}
+	.projects__names{
+		display: none;	
+	}
+	.control_contant{
+		margin: -230px auto 80px;
+	}
+	.control__video{
+		height: 350px;	
+	}
+	.vidoe-btn{
+		background: url('../images/video-btn.svg')center center;
+		width: 50px;
+		height: 55px;
+	}
+	.line{
+		margin-top: 0;
+	}
+	.video__text{
+		font-size: 14px;
+		width: 90%;	
+	}
+	.repair-types{
+		display: block;
+		padding-bottom: 0;		
+	}
+	.repair-type{
+		max-width: 100%;
+		flex-direction: column;
+	}
+	.repair-type__info{
+		margin: 0;	
+		position: 	relative;
+		position: relative;
+    	bottom: 150px;
+	}
+	.repair-type:last-child{
+		margin: 0;	
+	}
+	.repair-type__btn {
+		width: 70%;
+	}
+	.exempels-content{
+		padding-top: 50px;
+		display: block;
+		margin-top: 0;
+		height: 700px;	
+	}
+	.exempels__images::after{
+		content: '';
+		display: block;
+		background: url('../images/next-right.svg')no-repeat center center;
+		width: 50px;
+		height: 50px;
+	}
+	.exempels__images::before{
+		content: '';
+		display: block;
+		background: url('../images/next-left.svg')no-repeat center center;
+		width: 50px;
+		height: 50px;
+	}
+	.exempels__images{
+		flex-direction: inherit;
+    	align-items: center;
+    	height: 50%;
+    	height: 500px;	
+	}
+	.our-questions__content{
+		max-width: 100%;	
+	}
+	.question__form-book{
+		flex-direction: column;
+   		align-items: center;
+	}
+	.form__book:nth-child(2){
+		margin-top: 25px;	
+	}
+	.form__control{
+		justify-content: center;	
+	}
+	.form__book_question{
+		width: 80%;
+		margin-top: 25px;
+    	margin-bottom: 31px;	
+	}
+	.form__book{
+		width: 90%;	
+	}
+	.form__input_question{
+		width: 100%;	
+	}
+	.clients__opinions{
+		align-items: center;
+    	flex-direction: column;
+	}
+	.opinions__offer{
+		width: 100%;	
+	}
+	.opinions__offer:first-child{
+		margin-bottom: 50px;	
+	}
+	.exempels__choose{
+		margin: 0 auto;
+		width: 100%;	
+	}
+	.exempels__title{
+		text-align: center;
+	}
+	.exempels__list{
+		display: none;
+	}
+	.exempels__images img{
+		width: 70%;
+    	margin: 30px auto;
+    	height: 400px;	
+	}
+	.exempels__img2{
+		display: none;
+	}
+	.exempels__img1_mini{
+		display: none;	
+	}
+	.button-form_question{
+		margin: 35px auto 0;
+	}
+	.our-location__content{
+		height: 850px;	
+	}
+	.map{
+		height: 400px;	
+	}
+	.our-location__text{
+		font-size: 15px;
+    	width: 80%;
+	}
+@media (max-width: 490px){
+	.container{
+		padding: 0 30px;
+		max-width: 100%;	
+	}
+	.section-container{
+		padding: 0 30px;
+		max-width: 100%;	
+	}
+	.our-location__content{
+		padding: 0 30px 50px;
+   		max-width: 100%;
+    	background: #181818;
+    	position: absolute;
+    	z-index: -2;
+    	display: flex;
+    	flex-direction: column-reverse;
+    	margin-top: 50px;		
+	}
+	h2{
+		font-size: 22px !important;
+	}
+	.btn{
+		width: 100%;	
+	}
+	.map{
+		height: 250px;	
+	}
+	.main__title{
+		font-size: 23px;
+		width: 100%;	
+	}
+	.main__text{
+		width: 100%;	
+	}
+	.projects__img{
+		width: 100%;	
+	}
+	.projects__image::before{
+		position: absolute;
+	}
+	.projects__image::after{
+		position: absolute;
+		right: 30px;	
+	}
+	.projects__parameters{
+		top: 530px;	
+		left: 30px;	
+	}
+	.control {
+		background: #131313;
+	}
+	.control__video{
+		height: 270px;	
+	}
+	.video__text{
+		color: #fff;	
+	}
+	.form__label_white{
+		color: #fff;	
+	}
+	.form__book-input_control{
+		border: none;
+    	border-bottom: 1px solid #000;
+    	background: none;
+    	color: #fff;
+	}
+	.form__input{
+		width: 100%;
+		border-bottom: 2px solid #fff;	
+	}
+	.form__book-input{
+		width: 100%;
+		border-bottom: 2px solid #fff;	
+	}
+	.checkbox-text{
+		color: #fff;	
+	}
+	.surveillance{
+		margin-bottom: 0;	
+	}
+	.service{
+		display: none;	
+	}
+	.clients{
+		display: none;	
+	}
+	.exempels__images::before{
+	    position: absolute;
+    	left: 40px;
+	}
+	.exempels-content{
+		background: none;
+		margin-bottom: 0;
+		height: 540px;		
+	}
+	.exempels__images{
+		height: 370px;	
+	}
+	.exempels__images::after{
+		position: absolute;
+    	right: 40px;
+	}
+	.exempels__img1{
+		display: none;	
+	}
+	.exempels__img1_mini{
+		display: block;		
+	}
+	.exempels__images img {
+		width: 100%;	
+		height: 300px;
+	}
+	.our-questions__content{
+		position: absolute;
+    	z-index: -1;
+    	padding: 150px 0 0;
+    	margin-top: -220px;	
+	}
+	.question__form-book{
+		width: 100%;
+		padding: 0 30px;
+	}
+	.our-location__text{
+		padding-bottom: 25px;	
+	}
+	.our-mail{
+		position: absolute;
+    	left: 42%;
+    	margin-right: 0;	
+	}
+	.our-instagram{
+		position: absolute;
+    	left: 50%;
+	}
+	.footer{
+		display: none;	
+	}
+}
+@media (max-width: 420px){
+	.container{
+		padding: 0 18px;
+		max-width: 90%;
+	}
+	.section-container{
+		padding: 0 18px;
+		max-width: 90%;
+	}
+	.projects__offer{
+		width: 100%;	
+	}
+	.projects__title{
+		width: 255px;
+		margin: 0 auto;		
+	}
+	.projects__text{
+		width: 100%;
+		font-size: 11px;	
+	}
+	.exempels__images img {
+		height: 240px;	
+	}
+	.repair-type{
+		max-width: 340px;	
+	}		
+	.repair-type__info{
+		width: 270px;	
+	}
+	.repair-type__title{
+		font-size: 15px;
+	}
+	.repair-type__item{
+		font-size: 13px;	
+	}
+	.repair-type__btn{
+		padding: 11px 16px;
+		font-size: 15px;	
+	}
+	.our-questions__content{
+		padding: 130px 18px 0;
+		margin-top: -240px;
+		max-width: 100%;	
+	}
+	.question__form-book{
+		padding: 0 18px;	
+	}
+	.map{
+		width: 340px;
+	}
+	.our-mail{	
+    	left: 40%;	
+	}
+	.our-instagram{
+		position: absolute;
+    	left: 50%;
+	}
